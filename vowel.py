@@ -1,6 +1,6 @@
 n=str(input(""))
 list=['a','e','i','o','u']
 if n in list:
-	print("vowel")
+	print("Vowel")
 else:
-	print("consonant")
+	print("Consonant")
